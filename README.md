@@ -65,4 +65,4 @@ PictureButton är knappen som hamna längs ner och har då PictureText som sin t
     app:layout_constraintStart_toStartOf="parent" />
 ```
 
-![](WigetsScreenShot.png)
+![](WidgetsScreenShotFinal.png)
